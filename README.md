@@ -63,9 +63,8 @@ Before running this project, ensure you have the following installed:
 - Use the frontend UI to perform CRUD operations on the student data.
 - Changes made in the frontend will be reflected in the MongoDB database.
 
+![Screenshot 2024-04-18 171710](https://github.com/IT21826740/student/assets/111214065/f9a92d29-781a-40b8-9622-cebc8d383612)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please create a GitHub issue or submit a pull request.
-
-![Screenshot 2024-04-18 171710](https://github.com/IT21826740/student/assets/111214065/f9a92d29-781a-40b8-9622-cebc8d383612)
-
