@@ -11,7 +11,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) operation applicati
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -66,4 +66,6 @@ Before running this project, ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please create a GitHub issue or submit a pull request.
+
+![Screenshot 2024-04-18 171710](https://github.com/IT21826740/student/assets/111214065/f9a92d29-781a-40b8-9622-cebc8d383612)
 
